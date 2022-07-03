@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Skan-Tube/static/css/main.5f80f345.css",
-    "main.js": "/Skan-Tube/static/js/main.62292a41.js",
-    "static/media/logo.png": "/Skan-Tube/static/media/logo.3964973e5614d572f69b.png",
-    "index.html": "/Skan-Tube/index.html",
-    "main.5f80f345.css.map": "/Skan-Tube/static/css/main.5f80f345.css.map",
-    "main.62292a41.js.map": "/Skan-Tube/static/js/main.62292a41.js.map"
+    "main.css": "/SkanTube/static/css/main.5f80f345.css",
+    "main.js": "/SkanTube/static/js/main.844534f8.js",
+    "static/media/logo.png": "/SkanTube/static/media/logo.3964973e5614d572f69b.png",
+    "index.html": "/SkanTube/index.html",
+    "main.5f80f345.css.map": "/SkanTube/static/css/main.5f80f345.css.map",
+    "main.844534f8.js.map": "/SkanTube/static/js/main.844534f8.js.map"
   },
   "entrypoints": [
     "static/css/main.5f80f345.css",
-    "static/js/main.62292a41.js"
+    "static/js/main.844534f8.js"
   ]
 }
